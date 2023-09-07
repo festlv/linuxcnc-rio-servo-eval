@@ -1,0 +1,26 @@
+Drill report for colorlight-cnc-proto.kicad_pcb
+Created on Thu Sep  7 10:59:33 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'colorlight-cnc-proto.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (137 holes)
+    T2  0.500mm  0.0197"  (32 holes)
+    T3  1.000mm  0.0394"  (39 holes)
+    T4  1.200mm  0.0472"  (17 holes)
+    T5  3.200mm  0.1260"  (6 holes)
+
+    Total plated holes count 231
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
